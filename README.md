@@ -1,6 +1,6 @@
 # PWA weather app is deplyed [here](https://weather-app-16.netlify.app/)
 
-<br><br><br><br><br>
+<br><br>
 
 ![image](https://user-images.githubusercontent.com/62607923/137280642-e0eaf1e1-3a92-4c0a-8405-cafe233ff80f.png)
 
